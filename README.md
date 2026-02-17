@@ -34,9 +34,6 @@ The goal is to **centralize study materials** and create a collaborative academi
 * [Environment Setup](#environment-setup)
 * [API Endpoints](#api-endpoints)
 * [Testing](#testing)
-* [Future Enhancements](#future-enhancements)
-* [Contributing](#contributing)
-* [License](#license)
 
 ---
 
